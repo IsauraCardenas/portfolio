@@ -337,6 +337,15 @@ h2 {
   margin: auto 0;
 }
 
+/* CERTIFICATIONS SECTION */
+
+.certification-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 5rem;
+}
+
 /*EXPERIENCE SECTION */
 
 #experience {
@@ -361,7 +370,7 @@ h2 {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 5rem;
   justify-content: space-around;
 }
 
