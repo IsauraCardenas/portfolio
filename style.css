@@ -53,9 +53,8 @@ a {
 
 a:hover {
   color: grey;
-  text-decoration: underline;
-  text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration: underline pink;
+  text-underline-offset: auto;
 }
 
 .logo {
@@ -344,6 +343,15 @@ h2 {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 5rem;
+}
+
+li ul {
+  display: inline;
+  display: block;
+  list-style-type: disc;
+  gap: 5rem;
+  margin: none;
+  unicode-bidi: none;
 }
 
 /*EXPERIENCE SECTION */
