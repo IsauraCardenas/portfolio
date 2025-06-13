@@ -1,4 +1,4 @@
-/* GENERAL */
+/* Body */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
@@ -19,14 +19,14 @@ p {
   color: rgb(85, 85, 85);
 }
 
-/* TRANSITIONS */
+/* Transition */
 
 a,
 .btn {
   transition: all 300ms ease;
 }
 
-/* DESKTOP NAV */
+/* Nav */
 
 nav,
 .nav-links {
@@ -65,7 +65,7 @@ a:hover {
   cursor: default;
 }
 
-/* HAMBURGER MENU */
+/* Hamburger */
 
 #hamburger-nav {
   display: none;
@@ -145,7 +145,7 @@ a:hover {
   transform: none;
 }
 
-/* SECTIONS */
+/* Sections */
 
 section {
   padding-top: 4vh;
@@ -159,7 +159,7 @@ section {
   display: flex;
 }
 
-/* ABOUT SECTIONS */
+/* About section */
 
 section {
   padding-top: 4vh;
@@ -181,7 +181,7 @@ h2 {
   display: flex;
 }
 
-/* PROFILE SECTION */
+/* Profile  */
 
 #profile {
   display: flex;
@@ -192,8 +192,8 @@ h2 {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 500px;
+  width: 500px;
   margin: auto 0;
 }
 
@@ -228,14 +228,14 @@ h2 {
   gap: 1rem;
 }
 
-/* ICON */
+/* Icon */
 
 .icon {
   cursor: pointer;
   height: 3rem;
 }
 
-/* BUTTONS */
+/* Buttons*/
 
 .btn-container {
   display: flex;
@@ -283,7 +283,7 @@ h2 {
   gap: 1rem;
 }
 
-/* ABOUT SECTION */
+/* About  */
 
 #about {
   position: relative;
@@ -336,7 +336,7 @@ h2 {
   margin: auto 0;
 }
 
-/* CERTIFICATIONS SECTION */
+/* Certifications  */
 
 .certification-sub-title {
   color: rgb(85, 85, 85);
@@ -354,7 +354,7 @@ li ul {
   unicode-bidi: none;
 }
 
-/*EXPERIENCE SECTION */
+/*Experience */
 
 #experience {
   position: relative;
@@ -393,7 +393,7 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS SECTION */
+/* Projects */
 
 #projects {
   position: relative;
@@ -420,7 +420,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
-/* CONTACT */
+/* Contact */
 
 #contact {
   display: flex;
@@ -460,7 +460,7 @@ article .icon {
   height: 2.5rem;
 }
 
-/* FOOTER */
+/* Footer */
 
 footer {
   height: 26vh;
