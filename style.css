@@ -410,6 +410,10 @@ article .icon {
   height: 90%;
 }
 
+.project-img:hover {
+  cursor: pointer;
+}
+
 .project-title {
   margin: 1rem;
   color: black;
@@ -419,6 +423,7 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+
 
 /* Contact */
 
